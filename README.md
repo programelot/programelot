@@ -1,7 +1,9 @@
 Hello, I am programelot.
+
 Glad to see you.
 
-I am currently working and studying about optimization and GPGPU related-things.
+I am currently studying about optimization and GPGPU related-things.
+
 Please feel free to see my blog and resume.
 
 ### Status ###
